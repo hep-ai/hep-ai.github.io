@@ -14,11 +14,11 @@ Welcome to the website for [hep-ai](https://hep-ai.github.io).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 |:----:|:------- | :---- |:-------- | :----- |
-| 2/06/2018 | Boris Henin | When do exploding and vanishing gradients happen? | [arxiv:1801.03744](https://arxiv.org/abs/1801.03744) | |
+| 2/6/2018 | Boris Henin | When do exploding and vanishing gradients happen? | [arxiv:1801.03744](https://arxiv.org/abs/1801.03744) | |
 | 2/20/2018 | Jamie Sully | TBA | TBA | |
-| 3/06/2018 | Dan Roberts | TBA | TBA | |
-| 4/03/2018 | Yoni Kahn | TBA | TBA | |
-| 4/03/2018 | Ethan Dyer | TBA | TBA | |
+| 3/6/2018 | Dan Roberts | TBA | TBA | |
+| 4/3/2018 | Yoni Kahn | TBA | TBA | |
+| 4/3/2018 | Ethan Dyer | TBA | TBA | |
 | 4/17/2018 | Adam Brown | A Critical Review of Quantum Machine Learning | [nature23474](https://www.nature.com/articles/nature23474) | |
 | 5/1/2018 | ??? | TBA | TBA | |
 
