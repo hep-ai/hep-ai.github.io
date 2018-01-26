@@ -1,3 +1,3 @@
 # hep-ai.github.io
 
-This is an example.
+This is the website for the hep-ai reading group.
