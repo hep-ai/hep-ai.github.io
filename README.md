@@ -14,7 +14,7 @@ Welcome to the website for [hep-ai](https://hep-ai.github.io).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 2/6/2018 | Boris Henin | When do exploding and vanishing gradients happen? | [arxiv:1801.03744](https://arxiv.org/abs/1801.03744) | |
+| 2/6/2018 | Boris Hanin | When do exploding and vanishing gradients happen? | [arxiv:1801.03744](https://arxiv.org/abs/1801.03744) | |
 | 2/20/2018 | Jamie Sully | TBA | TBA | |
 | 3/6/2018 | Dan Roberts | TBA | TBA | |
 | 3/20/2018 | Yoni Kahn | TBA | TBA | |
