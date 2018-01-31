@@ -1,4 +1,4 @@
-Welcome to the website for [hep-ai](https://hep-ai.github.io).
+Welcome to the website for [hep-ai](https://hep-ai.org).
 
 
 
