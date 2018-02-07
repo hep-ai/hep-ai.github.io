@@ -27,7 +27,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 2/6/2018 | Boris Hanin | When do exploding and vanishing gradients happen? | [arxiv:1801.03744](https://arxiv.org/abs/1801.03744) | ? |
+| 2/6/2018 | Boris Hanin | When do exploding and vanishing gradients happen? | [arxiv:1801.03744](https://arxiv.org/abs/1801.03744) | [Yes](slides/2018-02-06.pdf) |
 | 1/23/2018 | Guy Gur-Ari | Three Factors Influencing Minima in SGD| [arxiv:1711.04623](https://arxiv.org/abs/1711.04623) | [Yes](slides/2018-01-23.pdf) |
 | 1/9/2018 | Max Kleiman-Weiner | Hierarchical RL and Eigenoptions | [arxiv:1703.00956](https://arxiv.org/abs/1703.00956), [arxiv:1710.11089](https://arxiv.org/abs/1710.11089) | [Yes](slides/2018-01-09.key) |
 | 12/26/2017 | Yoni Kahn | Spontaneous Symmetry Breaking and Informtion Bottlenecks | [arxiv:1710.06096](https://arxiv.org/abs/1710.06096) | [Yes](slides/2017-12-26.pdf) |
