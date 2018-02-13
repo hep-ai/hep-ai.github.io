@@ -36,6 +36,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | 11/7/2017 | DJ Strouse | Information Bottlenecks and Variational Inference | [arxiv:1612.00410](https://arxiv.org/abs/1612.00410) | No |
 | 10/24/2017 | Jamie Sully | AlphaGo Zero | [nature24270](https://www.nature.com/articles/nature24270) | ? |
 | 10/10/2017 | Dan Roberts | Intro to RL and Distributional RL | [arxiv:1707.06887](https://arxiv.org/abs/1707.06887) | [Yes](slides/2017-10-10.pdf) |
-| 9/26/2017 | Ethan Dyer | Learning to RL & RL2 | [arxiv:1611.02779](https://arxiv.org/abs/1611.02779), [arxiv:1611.05763](https://arxiv.org/abs/1611.05763) | ? |
+| 9/26/2017 | Ethan Dyer | Learning to RL & RL2 | [arxiv:1611.02779](https://arxiv.org/abs/1611.02779), [arxiv:1611.05763](https://arxiv.org/abs/1611.05763) | [Yes](slides/2017-09-26.pdf) |
 | 9/12/2017 | Guy Gur-Ari | Learning to Learn and Metalearning | [arxiv:1606.04474](https://arxiv.org/abs/1606.04474), [arxiv:1703.03400](https://arxiv.org/abs/1703.03400) | [Yes](slides/2017-09-12.pdf) |
 | 8/29/2017 | Jaehoon Lee | KFAC | [arxiv:1503.05671](https://arxiv.org/abs/1503.05671) | No |
