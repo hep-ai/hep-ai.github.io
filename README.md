@@ -6,7 +6,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 * hep-ai runs a journal club for a theoretical physics perspective on artificial intelligence.
 * We meet (on the internet) on **Tuesdays every other week at 12:30 PM EST** via a [Zoom](https://zoom.us/) meeting. 
-* Please email [hep-ai+subscribe@googlegroups.com](mailto:hep-ai+subscribe@googlegroups.com) for more info and if you'd like to join the mailing list.
+* Please email [hep.ai.list@gmail.com](mailto:hep.ai.list@gmail.com) for more info or if you'd like to join the mailing list.
 
 ## Schedule
 
@@ -14,7 +14,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 2/20/2018 | Jamie Sully | Adversarial Examples | [Adversarial Spheres](https://arxiv.org/abs/1801.02774) | |
+| 2/20/2018 | Jamie Sully | Adversarial Examples | [arxiv:1801.02774](https://arxiv.org/abs/1801.02774) | |
 | 3/6/2018 | Dan Roberts | TBA | TBA | |
 | 3/20/2018 | Yoni Kahn | TBA | TBA | |
 | 4/3/2018 | Ethan Dyer | TBA | TBA | |
