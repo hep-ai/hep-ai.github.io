@@ -5,8 +5,9 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 # Journal club
 
 * hep-ai runs a journal club for a theoretical physics perspective on artificial intelligence.
-* We meet (on the internet) on **Tuesdays every other week at 12:30 PM EST** via a [Zoom](https://zoom.us/) meeting. 
-* Please email [hep.ai.list@gmail.com](mailto:hep.ai.list@gmail.com) for more info or if you'd like to join the mailing list.
+* We meet (on the internet) on **Tuesdays every other week at 12:30 PM EST** via a [Zoom](https://zoom.us/) meeting.
+* We have a [Slack](https://slack.com/) workspace for member discussions.
+* Please email [hep.ai.list@gmail.com](mailto:hep.ai.list@gmail.com) for more info or if you'd like to join the mailing list or Slack.
 
 ## Schedule
 
