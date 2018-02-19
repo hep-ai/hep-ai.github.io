@@ -14,7 +14,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 2/20/2018 | Jamie Sully | TBA | TBA | |
+| 2/20/2018 | Jamie Sully | Adversarial Examples | [Adversarial Spheres](https://arxiv.org/abs/1801.02774) | |
 | 3/6/2018 | Dan Roberts | TBA | TBA | |
 | 3/20/2018 | Yoni Kahn | TBA | TBA | |
 | 4/3/2018 | Ethan Dyer | TBA | TBA | |
