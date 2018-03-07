@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 3/6/2018 | Paul Christiano | AI Safety, Human Feedback, Robustness + Transparency | [arxiv:1706.03741](https://arxiv.org/abs/1706.03741) + others | |
 | 3/20/2018 | Yoni Kahn | TBA | TBA | |
 | 4/3/2018 | Ethan Dyer | TBA | TBA | |
 | 4/17/2018 | Adam Brown | Quantum Machine Learning | [nature23474](https://www.nature.com/articles/nature23474), [arxiv:1611.09347](https://arxiv.org/abs/1611.09347) | |
@@ -27,6 +26,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 3/6/2018 | Paul Christiano | AI Safety, Human Feedback, Robustness + Transparency | [arxiv:1706.03741](https://arxiv.org/abs/1706.03741) + others | Yes|
 | 2/20/2018 | Jamie Sully | Adversarial Examples | [arxiv:1801.02774](https://arxiv.org/abs/1801.02774) | [Yes](slides/2018-02-20.pptx) |
 | 2/6/2018 | Boris Hanin | When do exploding and vanishing gradients happen? | [arxiv:1801.03744](https://arxiv.org/abs/1801.03744) | [Yes](slides/2018-02-06.pdf) |
 | 1/23/2018 | Guy Gur-Ari | Three Factors Influencing Minima in SGD| [arxiv:1711.04623](https://arxiv.org/abs/1711.04623) | [Yes](slides/2018-01-23.pdf) |
