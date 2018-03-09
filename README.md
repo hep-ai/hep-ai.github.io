@@ -20,7 +20,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | 4/17/2018 | Adam Brown | Quantum Machine Learning | [nature23474](https://www.nature.com/articles/nature23474), [arxiv:1611.09347](https://arxiv.org/abs/1611.09347) | |
 | 5/1/2018 | Josh Batson | TBD | TBD | |
 | 5/15/2018 | Eric Mintun | TBA | TBA | |
-| 5/29/2018 | ??? | TBA | TBA | |
+| 5/29/2018 | Dima Krotov | Dense Associate Memory & Adversarial Inputs | [NIPS](http://papers.nips.cc/paper/6121-dense-associative-memory-for-pattern-recognition.pdf), [1701.00939](https://arxiv.org/abs/1701.00939) | |
 
 ### Past talks
 
