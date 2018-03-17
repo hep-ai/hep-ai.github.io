@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 3/20/2018 | Yoni Kahn | TBA | TBA | |
+| 3/20/2018 | Yoni Kahn | Training Prunes Neural Networks | [arxiv:1803.03635](https://arxiv.org/abs/1803.03635) | |
 | 4/3/2018 | Ethan Dyer | TBA | TBA | |
 | 4/17/2018 | Adam Brown | Quantum Machine Learning | [nature23474](https://www.nature.com/articles/nature23474), [arxiv:1611.09347](https://arxiv.org/abs/1611.09347) | |
 | 5/1/2018 | Josh Batson | TBD | TBD | |
