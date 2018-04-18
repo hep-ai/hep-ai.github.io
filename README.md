@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 4/17/2018 | Josh Batson | Equivariance in Deep Learning | [arxiv:1703.06114](https://arxiv.org/abs/1703.06114), [arxiv:1801.10130](https://arxiv.org/abs/1801.10130) | |
 | 5/1/2018 | Adam Brown | Quantum Machine Learning | [nature23474](https://www.nature.com/articles/nature23474), [arxiv:1611.09347](https://arxiv.org/abs/1611.09347) | |
 | 5/15/2018 | Eric Mintun | TBA | TBA | |
 | 5/29/2018 | Dima Krotov | Dense Associate Memory & Adversarial Inputs | [NIPS 2016](http://papers.nips.cc/paper/6121-dense-associative-memory-for-pattern-recognition.pdf), [arxiv:1701.00939](https://arxiv.org/abs/1701.00939) | |
@@ -26,6 +25,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 4/17/2018 | Josh Batson | Equivariance in Deep Learning | [arxiv:1703.06114](https://arxiv.org/abs/1703.06114), [arxiv:1801.10130](https://arxiv.org/abs/1801.10130) | [Yes](slides/2018-04-17.pdf) |
 | 4/3/2018 | Shay Moran | Generalization and Simplification in Statistical Learning | | [Yes](slides/2018-04-03.pdf) |
 | 3/20/2018 | Yoni Kahn | Training Pruned Neural Networks | [arxiv:1803.03635](https://arxiv.org/abs/1803.03635) | No |
 | 3/6/2018 | Paul Christiano | AI Safety, Human Feedback, Robustness + Transparency | [arxiv:1706.03741](https://arxiv.org/abs/1706.03741) + others | [Yes](slides/2018-03-06.key)|
