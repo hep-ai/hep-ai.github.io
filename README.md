@@ -22,6 +22,8 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | 6/26/2018 | David Schwab | TBA | TBA | |
 | 7/10/2018 | TBA | TBA | TBA | |
 | 7/24/2018 | Adam Brown | Fun in High-Dimensional Spaces |  | |
+| 8/7/2018 | TBA | TBA | TBA | |
+| 8/21/2018 | TBA | TBA | TBA | |
 
 ### Past talks
 
