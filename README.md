@@ -17,12 +17,11 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | ----:|:------- | :---- |:-------- | :----- |
 | 5/15/2018 | Eric Mintun | TBA | TBA | |
 | 5/29/2018 | Dima Krotov | Dense Associate Memory & Adversarial Inputs | [NIPS 2016](http://papers.nips.cc/paper/6121-dense-associative-memory-for-pattern-recognition.pdf), [arxiv:1701.00939](https://arxiv.org/abs/1701.00939) | |
-| 6/12/2018 | Ethan Dyer | TBA | TBA | |
-| 6/19/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | |
+| 6/12/2018 | Ethan Dyer | TBA | TBA | | 
 | 6/26/2018 | David Schwab | TBA | TBA | |
 | 7/10/2018 | TBA | TBA | TBA | |
 | 7/24/2018 | Adam Brown | Fun in High-Dimensional Spaces |  | |
-| 8/7/2018 | TBA | TBA | TBA | |
+| 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | |
 | 8/21/2018 | TBA | TBA | TBA | |
 
 ### Past talks
