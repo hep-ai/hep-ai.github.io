@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 5/29/2018 | Dima Krotov | Dense Associate Memory & Adversarial Inputs | [NIPS 2016](http://papers.nips.cc/paper/6121-dense-associative-memory-for-pattern-recognition.pdf), [arxiv:1701.00939](https://arxiv.org/abs/1701.00939) | |
+| 5/29/2018 | Dima Krotov | Dense Associative Memory & Adversarial Inputs | [NIPS 2016](http://papers.nips.cc/paper/6121-dense-associative-memory-for-pattern-recognition.pdf), [arxiv:1701.00939](https://arxiv.org/abs/1701.00939) | |
 | 6/12/2018 | Ethan Dyer | TBA | TBA | | 
 | 6/26/2018 | David Schwab | TBA | TBA | |
 | 7/10/2018 | TBA | TBA | TBA | |
