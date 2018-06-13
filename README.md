@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 6/12/2018 | Ethan Dyer | InfoGAN - Disentangled Latent Representations | [arXiv:1606.03657](https://arxiv.org/abs/1606.03657) | | 
+| 6/12/2018 | Ethan Dyer | InfoGAN - Disentangled Latent Representations | [arXiv:1606.03657](https://arxiv.org/abs/1606.03657) |[Yes](slides/2018-06-12.key) | 
 | 6/26/2018 | David Schwab | TBA | TBA | |
 | 7/10/2018 | | _Cancelled due to ICML_ | | |
 | 7/24/2018 | Adam Brown | Fun in High-Dimensional Spaces |  | |
