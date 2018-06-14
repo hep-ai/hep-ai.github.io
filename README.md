@@ -14,18 +14,23 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 ### Upcoming talks
 
 | Date | Speaker | Topic | Paper(s) | Slides |
-| ----:|:------- | :---- |:-------- | :----- |
-| 6/12/2018 | Ethan Dyer | InfoGAN - Disentangled Latent Representations | [arXiv:1606.03657](https://arxiv.org/abs/1606.03657) |[Yes](slides/2018-06-12.key) | 
+| ----:|:------- | :---- |:-------- | :----- | 
 | 6/26/2018 | David Schwab | TBA | TBA | |
 | 7/10/2018 | | _Cancelled due to ICML_ | | |
 | 7/24/2018 | Adam Brown | Fun in High-Dimensional Spaces |  | |
 | 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | |
-| 8/21/2018 | TBA | TBA | TBA | |
+| 8/21/2018 | Boris Hanin  | TBA | TBA | |
+| 9/4/2018 | TBA | TBA | TBA | |
+| 9/18/2018 | TBA | TBA | TBA | |
+| 10/2/2018 | TBA | TBA | TBA | |
+| 10/16/2018 | TBA | TBA | TBA | |
+| 10/30/2018 | TBA | TBA | TBA | |
 
 ### Past talks
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 6/12/2018 | Ethan Dyer | InfoGAN - Disentangled Latent Representations | [arXiv:1606.03657](https://arxiv.org/abs/1606.03657) |[Yes](slides/2018-06-12.key) |
 | 5/29/2018 | Dima Krotov | Dense Associative Memory & Adversarial Inputs | [NIPS 2016](http://papers.nips.cc/paper/6121-dense-associative-memory-for-pattern-recognition.pdf), [arxiv:1701.00939](https://arxiv.org/abs/1701.00939) | [Yes](slides/2018-05-29.pdf) |
 | 5/15/2018 | Eric Mintun | Attention | e.g. [arxiv:1409.0473](https://arxiv.org/abs/1409.0473), [arxiv:1702.00887](https://arxiv.org/abs/1702.00887), [arxiv:1706.03762](https://arxiv.org/abs/1706.03762) |[Yes](slides/2018-05-15.pdf) |
 | 5/1/2018 | Adam Brown | A Critical Review of Quantum Machine Learning | [nature23474](https://www.nature.com/articles/nature23474), [arxiv:1611.09347](https://arxiv.org/abs/1611.09347) | [Yes](slides/2018-05-01.pdf) |
