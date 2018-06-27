@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 6/26/2018 | David Schwab | Renormalizing Data | [Koch-Janusz & Ringel](https://www.nature.com/articles/s41567-018-0081-4) and past work and a future idea | |
 | 7/10/2018 | | _Cancelled due to ICML_ | | |
 | 7/24/2018 | Adam Brown | Fun in High-Dimensional Spaces |  | |
 | 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | |
@@ -30,6 +29,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 6/26/2018 | David Schwab | Renormalizing Data | [Koch-Janusz & Ringel](https://www.nature.com/articles/s41567-018-0081-4) and past work and a future idea | Not Yet|
 | 6/19/2018 | Everyone | Generative Query Networks -- Discussion | [Eslami, et al.](http://science.sciencemag.org/content/360/6394/1204) | No |
 | 6/12/2018 | Ethan Dyer | InfoGAN - Disentangled Latent Representations | [arXiv:1606.03657](https://arxiv.org/abs/1606.03657) |[Yes](slides/2018-06-12.key) |
 | 5/29/2018 | Dima Krotov | Dense Associative Memory & Adversarial Inputs | [NIPS 2016](http://papers.nips.cc/paper/6121-dense-associative-memory-for-pattern-recognition.pdf), [arxiv:1701.00939](https://arxiv.org/abs/1701.00939) | [Yes](slides/2018-05-29.pdf) |
