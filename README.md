@@ -26,7 +26,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | |
+| 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | [Yes](slides/2018-08-07.pdf) |
 | 7/24/2018 | Adam Brown | Fun in High-Dimensional Spaces |  | |
 | 7/10/2018 | | _Cancelled due to ICML_ | | |
 | 6/26/2018 | David Schwab | Renormalizing Data | [Koch-Janusz & Ringel](https://www.nature.com/articles/s41567-018-0081-4) and past work and a future idea | Not Yet|
