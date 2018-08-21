@@ -17,7 +17,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | ----:|:------- | :---- |:-------- | :----- | 
 | 8/21/2018 | Boris Hanin  | What do we know about the loss surface? | Many | |
 | 9/4/2018 | TBA | TBA | TBA | |
-| 9/18/2018 | TBA | TBA | TBA | |
+| 9/18/2018 | Josh Batson | TBA | TBA | |
 | 10/2/2018 | TBA | TBA | TBA | |
 | 10/16/2018 | TBA | TBA | TBA | |
 | 10/30/2018 | TBA | TBA | TBA | |
