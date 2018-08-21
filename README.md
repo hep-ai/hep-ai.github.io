@@ -15,8 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 8/21/2018 | Boris Hanin  | What do we know about the loss surface? | Many | |
-| 9/4/2018 | TBA | TBA | TBA | |
+| 9/4/2018 | Levent Sagun | TBA | TBA | |
 | 9/18/2018 | Josh Batson | TBA | TBA | |
 | 10/2/2018 | TBA | TBA | TBA | |
 | 10/16/2018 | TBA | TBA | TBA | |
@@ -26,6 +25,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 8/21/2018 | Boris Hanin  | Everything you wanted to know about the loss surface but were afraid to ask -- The Talk | Many | |
 | 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | [Yes](slides/2018-08-07.pdf) |
 | 7/24/2018 | Adam Brown | Fun in High-Dimensional Spaces |  | |
 | 7/10/2018 | | _Cancelled due to ICML_ | | |
