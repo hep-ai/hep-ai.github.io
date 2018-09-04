@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 9/4/2018 | Levent Sagun | TBA | TBA | |
+| 9/4/2018 | Levent Sagun | Continuation of the Exploration of the Loss Landscape: an Empirical View | TBA | |
 | 9/18/2018 | Josh Batson | Learning to Denoise Without Clean Data | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | |
 | 10/2/2018 | TBA | TBA | TBA | |
 | 10/16/2018 | TBA | TBA | TBA | |
