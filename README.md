@@ -7,7 +7,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 * hep-ai runs a journal club for a theoretical physics perspective on artificial intelligence.
 * We meet (on the internet) on **Tuesdays every other week at 1 PM EST** via a [Zoom](https://zoom.us/) meeting.
 * We have a [Slack](https://slack.com/) workspace for member discussions.
-* Please email [subscribe@hep-ai.org](mailto:subscribe@hep-ai.org) for more info or if you'd like to join the mailing list or Slack.
+* Please email [subscribe@hep-ai.org](mailto:subscribe@hep-ai.org) if you'd like to join the mailing list or Slack.
 
 ## Schedule
 
@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 9/18/2018 | Josh Batson | Learning to Denoise Without Clean Data | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | |
 | 10/2/2018 | Guy Gur-Ari | TBA | TBA | |
 | 10/16/2018 | Sho Yaida | TBA | TBA | |
 | 10/30/2018 | TBA | TBA | TBA | |
@@ -24,6 +23,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 9/18/2018 | Josh Batson | Learning to Denoise Without Clean Data | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | |
 | 9/4/2018 | Levent Sagun | Continuation of the Exploration of the Loss Landscape: an Empirical View | | [Yes](slides/2018-09-04.pdf) |
 | 8/21/2018 | Boris Hanin  | Everything You Wanted to Know About the Loss Surface but Were Afraid to Ask – The Talk | Many | [Yes](slides/2018-08-21.pdf) |
 | 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | [Yes](slides/2018-08-07.pdf) |
