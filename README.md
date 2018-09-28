@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 10/2/2018 | Guy Gur-Ari | TBA | TBA | |
+| 10/2/2018 | TBA | TBA | TBA | |
 | 10/16/2018 | Sho Yaida | TBA | TBA | |
 | 10/30/2018 | TBA | TBA | TBA | |
 
