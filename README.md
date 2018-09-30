@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 10/2/2018 | TBA | TBA | TBA | |
+| 10/2/2018 | Noam Brown | Beating Humans at Poker | [science.aao1733](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733) | |
 | 10/16/2018 | Sho Yaida | TBA | TBA | |
 | 10/30/2018 | TBA | TBA | TBA | |
 
