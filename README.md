@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 10/2/2018 | Noam Brown | Beating Humans at Poker | [science.aao1733](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733) | |
 | 10/16/2018 | Sho Yaida | TBA | TBA | |
 | 10/30/2018 | TBA | TBA | TBA | |
 
@@ -23,7 +22,8 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 9/18/2018 | Josh Batson | Learning to Denoise Without Clean Data | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | |
+| 10/2/2018 | Noam Brown | Beating Humans at Poker | [science.aao1733](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733) | |
+| 9/18/2018 | Josh Batson | Learning to Denoise Without Clean Data | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | [Yes](slides/2018-09-18.pdf) |
 | 9/4/2018 | Levent Sagun | Continuation of the Exploration of the Loss Landscape: an Empirical View | | [Yes](slides/2018-09-04.pdf) |
 | 8/21/2018 | Boris Hanin  | Everything You Wanted to Know About the Loss Surface but Were Afraid to Ask – The Talk | Many | [Yes](slides/2018-08-21.pdf) |
 | 8/7/2018 | Yasaman Bahri | Deep Learning and Quantum Entanglement | [arXiv:1704.01552](https://arxiv.org/abs/1704.01552) | [Yes](slides/2018-08-07.pdf) |
