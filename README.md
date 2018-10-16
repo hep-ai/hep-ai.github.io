@@ -15,13 +15,13 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 10/16/2018 | Sho Yaida | Fluctuation-dissipation relations for SGD | [arxiv:1810.00004](https://arxiv.org/abs/1810.00004) | |
 | 10/30/2018 | TBA | TBA | TBA | |
 
 ### Past talks
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 10/16/2018 | Sho Yaida | Fluctuation-dissipation relations for SGD | [arxiv:1810.00004](https://arxiv.org/abs/1810.00004) | [Yes](slides/2018-10-16.pptx)|
 | 10/2/2018 | Noam Brown | Beating Humans at Poker | [science.aao1733](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733) | |
 | 9/18/2018 | Josh Batson | Learning to Denoise Without Clean Data | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | [Yes](slides/2018-09-18.pdf) |
 | 9/4/2018 | Levent Sagun | Continuation of the Exploration of the Loss Landscape: an Empirical View | | [Yes](slides/2018-09-04.pdf) |
