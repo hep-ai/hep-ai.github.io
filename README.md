@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 10/16/2018 | Sho Yaida | TBA | TBA | |
+| 10/16/2018 | Sho Yaida | Fluctuation-dissipation relations for SGD | [arxiv:1810.00004](https://arxiv.org/abs/1810.00004) | |
 | 10/30/2018 | TBA | TBA | TBA | |
 
 ### Past talks
