@@ -16,7 +16,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
 | 10/30/2018 | Open |  |  |  |
-| 11/13/2018 | Open |  |  |  |
+| 11/13/2018 | Marat Freytsis |  |  |  |
 | 11/27/2018 | Open |  |  |  |
 
 ### Past talks
