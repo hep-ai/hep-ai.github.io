@@ -17,7 +17,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | ----:|:------- | :---- |:-------- | :----- | 
 | 10/30/2018 | Marylou Gabrié | Entropy and mutual information in models of deep neural networks  | [arxiv:1805.09785](https://arxiv.org/abs/1805.09785) |  |
 | 11/13/2018 | Marat Freytsis | TBA | TBA |  |
-| 11/27/2018 | Stefano Spigler and Mario Geiger | A jamming transition from under- to over-parametrization affects loss landscape and generalization | [arxiv:1809.09349](https://arxiv.org/abs/1809.09349) |  |
+| 11/27/2018 | Stefano Spigler & Mario Geiger | A jamming transition from under- to over-parametrization affects loss landscape and generalization | [arxiv:1809.09349](https://arxiv.org/abs/1809.09349) |  |
 | 12/11/2018 | Yoni Kahn | TBA | TBA |  |
 | 12/25/2018 |  | _No Talk, Winter Break_ |  |  |
 | 1/8/2019 |  | Open |  |  |
