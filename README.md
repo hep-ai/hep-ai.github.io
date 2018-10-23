@@ -60,6 +60,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 ***
 
-<div style="text-align:center">
+<p>
 <img src="images/logo.png" alt="Logo credit (for the image that's not loading for you): Nicole Roberts, www.NicoleARoberts.com" title="Logo credit: Nicole Roberts, www.NicoleARoberts.com" width="200" boarder="0">
-</div>
+</p>
