@@ -59,4 +59,4 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | 8/29/2017 | Jaehoon Lee | KFAC | [arxiv:1503.05671](https://arxiv.org/abs/1503.05671) | No |
 
 
-![Logo credit (for the image that's not loading for you): Nicole Roberts, www.NicoleARoberts.com](images/logo.png "Logo credit: Nicole Roberts, www.NicoleARoberts.com"){ width=50% }
+![Logo credit (for the image that's not loading for you): Nicole Roberts, www.NicoleARoberts.com](images/logo.png =100x) "Logo credit: Nicole Roberts, www.NicoleARoberts.com")
