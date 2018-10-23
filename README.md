@@ -57,3 +57,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | 9/26/2017 | Ethan Dyer | Learning to RL & RL2 | [arxiv:1611.02779](https://arxiv.org/abs/1611.02779), [arxiv:1611.05763](https://arxiv.org/abs/1611.05763) | [Yes](slides/2017-09-26.pdf) |
 | 9/12/2017 | Guy Gur-Ari | Learning to Learn and Metalearning | [arxiv:1606.04474](https://arxiv.org/abs/1606.04474), [arxiv:1703.03400](https://arxiv.org/abs/1703.03400) | [Yes](slides/2017-09-12.pdf) |
 | 8/29/2017 | Jaehoon Lee | KFAC | [arxiv:1503.05671](https://arxiv.org/abs/1503.05671) | No |
+
+
+![Logo credit (for the image that's not loading for you): Nicole Roberts, www.NicoleARoberts.com](images/logo.png "Logo credit: Nicole Roberts, www.NicoleARoberts.com")
