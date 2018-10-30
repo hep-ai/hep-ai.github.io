@@ -20,7 +20,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | 11/27/2018 | Stefano Spigler & Mario Geiger | A jamming transition from under- to over-parametrization affects loss landscape and generalization | [arxiv:1809.09349](https://arxiv.org/abs/1809.09349), [arxiv:1810.09665](https://arxiv.org/abs/1810.09665) |  |
 | 12/11/2018 | Yoni Kahn | TBA |  |  |
 | 12/25/2018 |  | _No Talk, Winter Break_ |  |  |
-| 1/8/2019 |  | Open |  |  |
+| 1/8/2019 | Marat Freytsis | Open |  |  |
 
 ### Past talks
 
