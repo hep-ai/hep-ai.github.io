@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 11/13/2018 | Riccardo Zecchina | The evolving entropy landscape of deep network | Many |  |
 | 11/27/2018 | Stefano Spigler & Mario Geiger | A jamming transition from under- to over-parametrization affects loss landscape and generalization | [arxiv:1809.09349](https://arxiv.org/abs/1809.09349), [arxiv:1810.09665](https://arxiv.org/abs/1810.09665) |  |
 | 12/11/2018 | Marat Freytsis | TBA |  |  |
 | 12/25/2018 |  | _No Talk, Winter Break_ |  |  |
@@ -25,6 +24,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 11/13/2018 | Riccardo Zecchina | The evolving entropy landscape of deep network | Many |  |
 | 10/30/2018 | Marylou Gabrié | Entropy and mutual information in models of deep neural networks  | [arxiv:1805.09785](https://arxiv.org/abs/1805.09785) | [Yes](slides/2018-10-30.pdf) |
 | 10/16/2018 | Sho Yaida | Fluctuation-dissipation relations for SGD | [arxiv:1810.00004](https://arxiv.org/abs/1810.00004) | [Yes](slides/2018-10-16.pptx)|
 | 10/2/2018 | Noam Brown | Beating Humans at Poker | [science.aao1733](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733) | |
