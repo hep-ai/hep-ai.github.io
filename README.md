@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 12/11/2018 | Marat Freytsis | TBA |  |  |
+| 12/11/2018 | Marat Freytsis | Weak supervision, noisy labels, and error propagation | [arxiv:1706.09451](https://arxiv.org/abs/1706.09451), [arxiv:1708.02949](https://arxiv.org/abs/1708.02949), [arxiv:1402.5902](https://arxiv.org/abs/1402.5902)  |  |
 | 12/25/2018 |  | _No Talk, Winter Break_ |  |  |
 | 1/8/2019 | Yoni Kahn |  |  |  |
 
