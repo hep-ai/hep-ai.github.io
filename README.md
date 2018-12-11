@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 12/11/2018 | Marat Freytsis | Weak supervision, noisy labels, and error propagation | [arxiv:1706.09451](https://arxiv.org/abs/1706.09451), [arxiv:1708.02949](https://arxiv.org/abs/1708.02949), [arxiv:1402.5902](https://arxiv.org/abs/1402.5902)  |  |
 | 12/25/2018 |  | _No Talk, Winter Break_ |  |  |
 | 1/8/2019 | Yoni Kahn |  |  |  |
 
@@ -23,6 +22,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 12/11/2018 | Marat Freytsis | Weak supervision, noisy labels, and error propagation | [arxiv:1706.09451](https://arxiv.org/abs/1706.09451), [arxiv:1708.02949](https://arxiv.org/abs/1708.02949), [arxiv:1402.5902](https://arxiv.org/abs/1402.5902)  | [Yes](slides/2018-12-11.pdf) |
 | 11/27/2018 | Stefano Spigler & Mario Geiger | A jamming transition from under- to over-parametrization affects loss landscape and generalization | [arxiv:1809.09349](https://arxiv.org/abs/1809.09349), [arxiv:1810.09665](https://arxiv.org/abs/1810.09665) | [Yes](https://slides.com/vonspigler/jamming-transition-hep-ai-final/) |
 | 11/13/2018 | Riccardo Zecchina | The evolving entropy landscape of deep network | Many |  |
 | 10/30/2018 | Marylou Gabrié | Entropy and mutual information in models of deep neural networks  | [arxiv:1805.09785](https://arxiv.org/abs/1805.09785) | [Yes](slides/2018-10-30.pdf) |
