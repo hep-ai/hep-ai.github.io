@@ -16,7 +16,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
 | 12/25/2018 |  | _No Talk, Winter Break_ |  |  |
-| 1/8/2019 | Yoni Kahn |  |  |  |
+| 1/8/2019 | Yoni Kahn | A Statistical Field Theory analogy | [arxiv:1710.06570](https://arxiv.org/abs/1710.06570) |  |
 
 ### Past talks
 
