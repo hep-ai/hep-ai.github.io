@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 1/8/2019 | Yoni Kahn | A Statistical Field Theory analogy | [arxiv:1710.06570](https://arxiv.org/abs/1710.06570) |  |
+| 1/8/2019 | Yoni Kahn | A Statistical Field Theory analogy | [arxiv:1710.06570](https://arxiv.org/abs/1710.06570) | [Yes](slides/2019-01-08.pdf) |
 | 1/22/2019 | TBA |  |  |  |
 | 2/5/2019 | TBA |  |  |  |
 | 2/19/2019 | TBA |  |  |  |
