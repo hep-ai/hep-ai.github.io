@@ -15,11 +15,11 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 1/22/2019 | TBA |  |  |  |
-| 2/5/2019 | Jaehoon Lee |  |  |  |
-| 2/19/2019 | TBA |  |  |  |
-| 3/5/2019 | TBA |  |  |  |
-| 3/19/2019 | TBA |  |  |  |
+| 1/22/2019 |  |  |  |  |
+| 2/5/2019 | Jaehoon Lee | Either Gaussian Processes or Empirical Studying of Batch Size  |  |  |
+| 2/19/2019 |  |  |  |  |
+| 3/5/2019 |  |  |  |  |
+| 3/19/2019 |  |  |  |  |
 
 
 ### Past talks
