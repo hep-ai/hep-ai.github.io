@@ -17,7 +17,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | ----:|:------- | :---- |:-------- | :----- | 
 | 1/22/2019 | James Giammona  | Neural Ordinary Differential Equations | [arxiv:1806.07366](https://arxiv.org/abs/1806.07366) |  |
 | 2/5/2019 | Jaehoon Lee | Either Gaussian Processes or Empirical Studying of Batch Size  |  |  |
-| 2/19/2019 |  |  |  |  |
+| 2/19/2019 | Jamie Sully | Something Glassy |  |  |
 | 3/5/2019 |  |  |  |  |
 | 3/19/2019 |  |  |  |  |
 
