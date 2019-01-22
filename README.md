@@ -25,7 +25,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
-| 1/22/2019 | James Giammona  | Neural Ordinary Differential Equations | [arxiv:1806.07366](https://arxiv.org/abs/1806.07366) | (slides/2019-01-22.pptx) |
+| 1/22/2019 | James Giammona  | Neural Ordinary Differential Equations | [arxiv:1806.07366](https://arxiv.org/abs/1806.07366) | [Yes](slides/2019-01-22.pptx) |
 | 1/8/2019 | Yoni Kahn | A Statistical Field Theory analogy | [arxiv:1710.06570](https://arxiv.org/abs/1710.06570) | [Yes](slides/2019-01-08.pdf) |
 | 12/25/2018 |  | _No Talk, Winter Break_ |  |  |
 | 12/11/2018 | Marat Freytsis | Weak supervision, noisy labels, and error propagation | [arxiv:1706.09451](https://arxiv.org/abs/1706.09451), [arxiv:1708.02949](https://arxiv.org/abs/1708.02949), [arxiv:1402.5902](https://arxiv.org/abs/1402.5902)  | [Yes](slides/2018-12-11.pdf) |
