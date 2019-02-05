@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 2/5/2019 | Jaehoon Lee | Either Gaussian Processes or Empirical Studying of Batch Size  |  |  |
+| 2/5/2019 | Jaehoon Lee | Understanding wide neural networks  | [arxiv:1711.00165](https://arxiv.org/abs/1711.00165) |  |
 | 2/19/2019 | Jamie Sully | Something Glassy |  |  |
 | 3/5/2019 |  |  |  |  |
 | 3/19/2019 |  |  |  |  |
