@@ -16,8 +16,12 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
 | 2/19/2019 | Jamie Sully | Something Glassy |  |  |
-| 3/5/2019 |  |  |  |  |
+| 3/5/2019 | Boris Hanin |  |  |  |
 | 3/19/2019 | Josh Batson | Noise2Self: Blind Denoising by Self-Supervision | [arxiv:1901.11365](https://arxiv.org/abs/1901.11365) |  |
+| 4/2/2019 |  |  |  |  |
+| 4/16/2019 |  |  |  |  |
+| 4/30/2019 |  |  |  |  |
+
 
 
 ### Past talks
