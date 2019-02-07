@@ -17,7 +17,8 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 | ----:|:------- | :---- |:-------- | :----- | 
 | 2/19/2019 | Jamie Sully | Something Glassy |  |  |
 | 3/5/2019 |  |  |  |  |
-| 3/19/2019 |  |  |  |  |
+| 3/19/2019 | Josh Batson | 
+Noise2Self: Blind Denoising by Self-Supervision | [arxiv:1901.11365](https://arxiv.org/abs/1901.11365) |  |
 
 
 ### Past talks
