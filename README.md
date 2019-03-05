@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 3/5/2019 | Boris Hanin | Complexity of Linear Regions in Deep Networks | [arxiv:1901.09021](https://arxiv.org/abs/1901.09021) |  |
 | 3/19/2019 | Josh Batson | Noise2Self: Blind Denoising by Self-Supervision | [arxiv:1901.11365](https://arxiv.org/abs/1901.11365) |  |
 | 4/2/2019 |  |  |  |  |
 | 4/16/2019 |  |  |  |  |
@@ -27,6 +26,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 3/5/2019 | Boris Hanin | Complexity of Linear Regions in Deep Networks | [arxiv:1901.09021](https://arxiv.org/abs/1901.09021) | [Yes](slides/2019-03-05.pdf) |
 | 2/19/2019 | | _Cancelled_ | | |
 | 2/5/2019 | Jaehoon Lee | Understanding wide neural networks  | [arxiv:1711.00165](https://arxiv.org/abs/1711.00165) | [Yes](slides/2019-02-05.pdf) |
 | 1/22/2019 | James Giammona  | Neural Ordinary Differential Equations | [arxiv:1806.07366](https://arxiv.org/abs/1806.07366) | [Yes](slides/2019-01-22.pptx) |
