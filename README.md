@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 4/16/2019 |  |  |  |  |
+| 4/16/2019 | Sam Tenka | SGD & Generalization | [sort-of](https://research.fb.com/publications/sgd-implicitly-regularizes-generalization-error/) |  |
 | 4/30/2019 | Dalit Engelhardt | Controlling stochastic evolution with deep reinforcement learning | [arxiv:1903.11373](http://arxiv.org/abs/1903.11373) |  |
 
 
