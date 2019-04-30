@@ -15,7 +15,6 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| 4/30/2019 | Dalit Engelhardt | Controlling stochastic evolution with deep reinforcement learning | [arxiv:1903.11373](http://arxiv.org/abs/1903.11373) |  |
 | TBA | Sam Tenka | When and Why does SGD outperform GD? | [sort-of](https://research.fb.com/publications/sgd-implicitly-regularizes-generalization-error/) |  |
 
 
@@ -23,6 +22,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- |
+| 4/30/2019 | Dalit Engelhardt | Controlling stochastic evolution with deep reinforcement learning | [arxiv:1903.11373](http://arxiv.org/abs/1903.11373) | Yes |
 | 4/16/2019 | | _Cancelled_ | | |
 | 4/2/2019 | | _Cancelled_ | | |
 | 3/19/2019 | Josh Batson | Noise2Self: Blind Denoising by Self-Supervision | [arxiv:1901.11365](https://arxiv.org/abs/1901.11365) | Yes |
