@@ -15,7 +15,7 @@ Welcome to the website for [hep-ai](https://hep-ai.org).
 
 | Date | Speaker | Topic | Paper(s) | Slides |
 | ----:|:------- | :---- |:-------- | :----- | 
-| TBA | Sam Tenka | When and Why does SGD outperform GD? | [sort-of](https://research.fb.com/publications/sgd-implicitly-regularizes-generalization-error/) |  |
+| TBA | TBA | TBA | TBA |  |
 
 
 ### Past talks
